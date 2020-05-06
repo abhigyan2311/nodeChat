@@ -1,0 +1,13 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "NodeJS Realtime Chat",
+  "scripts": {
+    "start": "node app"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.4.8",
+    "socket.io": "^1.1.0"
+  }
+}
